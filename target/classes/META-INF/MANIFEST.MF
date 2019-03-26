@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: JayDee
+Build-Jdk: 9.0.1
+Implementation-Title: whistle
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.heavengate
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/whistle
+Created-By: Maven Integration for Eclipse
+
